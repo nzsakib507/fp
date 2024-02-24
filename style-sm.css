@@ -1,0 +1,233 @@
+@media screen and (max-width: 600px) {
+    #topad{
+        display: none;
+    }
+    .w95{
+        width: 95%;
+        margin: 0 auto;
+    }
+    
+
+
+    #navbar{
+        background-color: rgb(161, 161, 161);
+        /* box-shadow: 0px 10px rgb(59, 57, 57); */
+    }
+    .fl1{
+        /* display: flex;
+        justify-content: space-between;
+        flex-wrap: nowrap;
+        align-items: center;
+        padding: 1% 0; */
+    }
+    .left1{
+        text-align: center;
+        align-items: center;
+        margin: 0 auto;
+        /* float: left; */
+        color: #E21B70;
+        font-size: 29px;
+        font-weight: 600;
+    }
+    .right1{
+        display: none;
+        /* float: right; */
+        font-size: 20px;
+    }
+    .login{
+        display: none;
+    }
+    .signup{
+        display: none;
+    }
+
+    #body1{
+        background-color: #F7F7F7;
+    }
+    .grid1{
+        width: 100%;
+        display: flex;
+        text-align: center;
+        align-items: center;
+    }
+    .left2{
+        width: 50%;
+    }
+    .right2{
+        width: 50%;
+        align-items: end;
+    }
+    .head2{
+        font-size: 20px;
+    }
+    .input1{
+        width: full;
+        padding: 3px 10px;
+        padding-right: 50px;
+    }
+    .img1{
+        width: 100%;
+        right: 0;
+        align-items: end;
+    }
+    #body2{
+        background-color: #F7F7F7;
+    }
+    .box1{
+        border-radius: 10px;
+        padding: 15px 15px;
+        box-shadow: 5px 5px 19px #888888;
+    }
+    .head3{
+        padding: 20px 10px;
+    }
+    .img2{
+        width: 100%;
+        height: 200px;
+    }
+    .box1{
+        width: 80%;
+        margin: 6% auto;
+        padding-bottom: 5%;
+    }
+    .b2{
+        padding: 9px 17px;
+        color: white;
+        font-weight: 400;
+        text-decoration: none;
+        border-radius: 10px;
+        background-color: #E21B70;
+    }
+    .wm95{
+        width: 95%;
+    }
+    #imggal{
+        background-color: #F7F7F7;
+    }
+    .head4{
+        font-size: 30px;
+        padding: 1% 0;
+    }
+    .main{
+
+    }
+    .flex2{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        flex-wrap: wrap;
+        gap: 2%;
+    }
+    .im{
+        width: 49%;
+        padding-top: 2%;
+        margin: 0 auto;
+    }
+    .img5{
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .head5{
+        padding: 3% 0;
+        font-size: 30px;
+    }
+
+    #body3
+    .flex3{
+        width: 100%;
+        display: f;
+        flex-wrap: wrap-reverse;
+        background-color: #E21B70;
+        border-radius: 10px;
+    }
+    .left3{
+        width: 100%;
+        padding: 3% 5%;
+    }
+    .right3{
+        width: 100%;
+    }
+    .img3{
+        width: 80%;
+        margin: 0 auto;
+    }
+
+
+    #body4
+    .head6{
+        padding: 2% 0;
+        margin-top: 5%;
+    }
+    .b3{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10%;
+    }
+    .img4{
+        width: 80%;
+        border-radius: 7px;
+        align-items: center;
+        text-align: center;
+    }
+    .b4{
+        width: 100%;
+        align-items: center;
+    }
+    .b5{
+        text-decoration: none;
+        font-weight: 500;
+        padding: 20px 20px;
+        color: white;
+        background-color: #E21B70;
+        border-radius: 10px;
+    }
+    #text1{
+        margin: 7% 0;
+    }
+    .tx1 p{
+        line-height: 29px;
+        font-size: 20px;
+    }
+    .b6{
+        text-decoration: none;
+        color: aliceblue;
+        background-color: #E21B70;
+        padding: 15px 20px;
+        border-radius: 10px;
+        font-size: 18px;
+    }
+
+    #footer{
+        background-color: #FFFFFF;
+        padding: 3% 0;
+        border-top: 1px solid gray;
+        
+    }
+    .flex4{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4%;
+        font-size: 20px;
+    }
+    .fl2{
+        width: 100%;
+        line-height: 39px;
+        padding: 0% 0;
+        border-bottom: 1px solid gray;
+    }
+    .txb{
+        color: gray;
+        font-weight: 700;
+    }
+    .tx2 a{
+        color: #E21B70;
+        text-decoration: none;
+    }
+
+
+
+
+}
